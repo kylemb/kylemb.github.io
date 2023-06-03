@@ -1,0 +1,10 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign about_page = site.pages | where: "name", "about.md" | first %}
+{% if about_page %}
+  {{ about_page.content }}
+{% endif %}

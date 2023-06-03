@@ -1,8 +1,21 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a Ph.D. Candidate in Computer Science in the [Department of Information and Computer Sciences at the University of Hawaii at Manoa](https://www.ics.hawaii.edu/) (expected graduation Summer 2023).
+My research interests span the areas of high-performance computing, parallel algorithms, cache-efficient algorithms, and general-purpose computing on graphics processing units (GPGPU).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+* Advisor: [Nodari Sitchinava](https://www2.hawaii.edu/~nodari/)
+* Research groups:
+	* [AlgoPARC](https://algoparc.ics.hawaii.edu/)
+	* [Concurrency Research Group](https://henricasanova.github.io/research/)
+<!-- * [Master's Thesis](/assets/papers/thesis.pdf) -->
+<!-- * [Ph.D. Dissertation](assets/papers/dissertation.pdf) -->
+* Contact:
+	* kyle.m.berney@gmail.com
+	* berneyk@hawaii.edu
+	
